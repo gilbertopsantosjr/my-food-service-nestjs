@@ -1,0 +1,7 @@
+openapi: 3.0.2
+info:
+  title: BraIrish Track Expense API
+  version: X.X.X
+  description: Service to Support multiple accounts
+  contact:
+    name: gilbertopsantosjr
